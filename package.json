@@ -1,0 +1,22 @@
+{
+  "name": "algoexpertsolutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "validateSubsequence.js",
+  "scripts": {
+    "start": "nodemon validateSubsequence.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zarifRahman/algoExpertSolutions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zarifRahman/algoExpertSolutions/issues"
+  },
+  "homepage": "https://github.com/zarifRahman/algoExpertSolutions#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
